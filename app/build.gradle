@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace 'easy.tuto.myquizapplication'
     compileSdk 32
 
     defaultConfig {
